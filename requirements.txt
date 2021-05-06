@@ -13,6 +13,7 @@ defusedxml==0.6.0
 distlib==0.3.1
 dj-database-url==0.5.0
 Django==3.1.6
+django_heroku
 entrypoints==0.3
 filelock==3.0.12
 gunicorn
@@ -42,7 +43,6 @@ pyparsing==2.4.7
 pyrsistent==0.16.0
 python-dateutil==2.8.1
 pytz==2020.1
-pyzmq==19.0.0
 requests==2.23.0
 retrying==1.3.3
 Send2Trash==1.5.0
